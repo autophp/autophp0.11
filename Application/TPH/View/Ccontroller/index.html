@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>创建控制器</title>
+    <!-- 新 Bootstrap 核心 CSS 文件 -->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+    <!-- 可选的Bootstrap主题文件（一般不用引入） -->
+    <link rel="stylesheet" href="//cdn.bootcss.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+
+    <!-- jQuery文件。务必在bootstrap.min.js 之前引入 -->
+    <script src="//cdn.bootcss.com/jquery/1.11.3/jquery.min.js"></script>
+
+    <!-- 最新的 Bootstrap 核心 JavaScript 文件 -->
+    <script src="//cdn.bootcss.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+</head>
+<body>
+<form action="{:U('Ccontroller/index')}" method="post">
+    <div class="span6">
+        <label for="moduleName">选择模块</label>
+        <select name="moduleName" id="moduleName">
+            <foreach name="moduleName" item="vo">
+                <option value="{$vo}">{$vo}</option>
+            </foreach>
+        </select>
+    </div>
+    <div class="span6">
+        <label for="tablename">选择数据表</label>
+        <select name="tablename" id="tablename">
+            <foreach name="modelName" item="vo">
+                <option value="{$vo}">{$vo}</option>
+            </foreach>
+        </select>
+    </div>
+    <div class="span6">
+        <label for="table_belong_module">数据表所在模块</label>
+        <select name="table_belong_module" id="table_belong_module">
+            <foreach name="moduleName" item="vo">
+                <option value="{$vo}">{$vo}</option>
+            </foreach>
+        </select>
+    </div>
+    <div class="span6">
+        <label for="controller_name">输入控制器名</label>
+        <input type="text" name="controller_name" id="controller_name" placeholder="不输入,默认继承controller"/>
+    </div>
+    <div class="span6">
+        <label for="initialize">是否初始化,并继承</label>
+        <select name="initialize" id="initialize">
+            <option value="no_initialize">不初始化</option>
+            <option value="initialize_no">初始化,不继承父控制器初始化</option>
+            <option value="initialize_yes">初始化,继承父控制器初始化</option>
+        </select>
+    </div>
+
+    <button type="button" onclick="getColumn();">获取表字段</button>
+    <button type="submit">生成控制器</button>
+</form>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+[ 2016-03-14T11:03:26+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000587s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004532s ]
+ERR: 1146:Table 'codegenerator.tp_users_view' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_users_view`
+ERR: 1146:Table 'codegenerator.tp_users_view' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_users_view`
+
+[ 2016-03-14T13:09:11+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000299s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004110s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004290s ]
+ERR: 1146:Table 'codegenerator.tp_users_view' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_users_view`
+ERR: 1146:Table 'codegenerator.tp_users_view' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_users_view`
+

@@ -1,0 +1,1 @@
+创建视图view的:edit,list,add,delete和各种modal和js等

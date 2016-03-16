@@ -1,0 +1,6 @@
+[ 2016-03-13T12:51:22+08:00 ] ::1 /index.php/edit/id/0.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003777s ]
+ERR: 无法加载模块:Edit
+

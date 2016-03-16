@@ -1,0 +1,164 @@
+[ 2016-03-13T11:56:47+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003906s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004698s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0065s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0007s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003191s ]
+
+[ 2016-03-13T11:56:48+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000520s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0063s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0066s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000733s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000815s ]
+
+[ 2016-03-13T11:59:24+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004078s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004284s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0088s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0075s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0009s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002122s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002247s ]
+
+[ 2016-03-13T11:59:49+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004074s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004216s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004427s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0049s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0058s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004435s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004607s ]
+
+[ 2016-03-13T12:20:18+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004023s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004736s ]
+ERR: 1146:Table 'codegenerator.tp_tp_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_tp_users`
+ERR: 1146:Table 'codegenerator.tp_tp_users' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `tp_tp_users`
+
+[ 2016-03-13T12:20:24+08:00 ] ::1 /index.php/home/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001739s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `tp_users`  [ RunTime:0.0060s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011791s ]
+
+[ 2016-03-13T12:47:08+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004002s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004165s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004350s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0116s ]
+SQL: SELECT * FROM `tp_users`  [ RunTime:0.0118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004753s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004981s ]
+
+[ 2016-03-13T12:47:21+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003872s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004090s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004295s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0065s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0070s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_' at line 1
+ [ SQL语句 ] : SELECT Users. AS,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id 
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_' at line 1
+ [ SQL语句 ] : SELECT Users. AS,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id 
+
+[ 2016-03-13T12:47:36+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000672s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000778s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0037s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0069s ]
+ERR: 1054:Unknown column 'Users.realname' in 'field list'
+ [ SQL语句 ] : SELECT Users.realname AS realname,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id 
+ERR: 1054:Unknown column 'Users.realname' in 'field list'
+ [ SQL语句 ] : SELECT Users.realname AS realname,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id 
+
+[ 2016-03-13T12:47:41+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0062s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0054s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0038s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004138s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004280s ]
+
+[ 2016-03-13T14:54:44+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004242s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0223s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0125s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0055s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004533s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004769s ]
+
+[ 2016-03-13T15:14:28+08:00 ] ::1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005209s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005423s ]
+SQL: SHOW COLUMNS FROM `tp_users` [ RunTime:0.0529s ]
+SQL: SHOW COLUMNS FROM `tp_wifes` [ RunTime:0.0061s ]
+SQL: SELECT Users.username AS username,Wifes.wife_id AS wife_id,Wifes.wife_name AS wife_name,Wifes.wife_age AS wife_age,Wifes.bobos AS bobos,Wifes.yao AS yao,Wifes.tun AS tun,Wifes.birthday AS birthday,Wifes.wife_sex AS wife_sex,Wifes.wife_description AS wife_description FROM tp_users Users  JOIN tp_wifes Wifes ON Users.user_id = Wifes.user_id  [ RunTime:0.0103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004140s ]
+

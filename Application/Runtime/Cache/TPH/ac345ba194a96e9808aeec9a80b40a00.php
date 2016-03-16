@@ -1,0 +1,2 @@
+<?php if (!defined('THINK_PATH')) exit();?>'<?php echo ($tableName); ?>'=>array(<?php echo ($table2Field); ?>, '_on'=>'<?php echo ($modelName); ?>.<?php echo ($viewModuleOn1); ?> = <?php echo ($tableName); ?>.<?php echo ($viewModuleOn2); ?>' <?php if($joinType != '' ): ?>, '_type'=>'<?php echo ($joinType); ?>'<?php endif; ?>),
+	   //@more

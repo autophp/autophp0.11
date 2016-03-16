@@ -1,0 +1,1382 @@
+[ 2016-03-16T09:06:39+08:00 ] ::1 /index.php/TPH/Cmodel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000360s ]
+INFO: [ app_init ] --END-- [ RunTime:0.013349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.013081s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.013276s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.4126s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0694s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000118s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000241s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.356635s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.356747s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.006298s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.013490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.013652s ]
+
+[ 2016-03-16T10:32:55+08:00 ] ::1 /index.php/TPH/Cmodel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008384s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006772s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006970s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0165s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0046s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002574s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.002742s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.080784s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002748s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002887s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004414s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004616s ]
+
+[ 2016-03-16T10:33:08+08:00 ] ::1 /index.php/TPH/Cmodel/index/model/tp_part_sole_config
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000490s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001070s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0004s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_part_sole_config' [ RunTime:0.0149s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000146s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028722s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000215s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000829s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000921s ]
+
+[ 2016-03-16T10:33:14+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001253s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001497s ]
+
+[ 2016-03-16T11:15:07+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006807s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006526s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0292s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0201s ]
+ERR: 模板不存在:./Application/TPH/View/Ccontroller/index.html
+
+[ 2016-03-16T11:42:21+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004253s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003450s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003624s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0037s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0084s ]
+ERR: 模板不存在:./Application/TPH/View/Ccontroller/index.html
+
+[ 2016-03-16T13:08:47+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003549s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0037s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0106s ]
+ERR: 模板不存在:./Application/TPH/View/Ccontroller/index.html
+
+[ 2016-03-16T13:19:06+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003982s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003748s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003940s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0008s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0070s ]
+ERR: 模板不存在:./Application/TPH/View/Ccontroller/index.html
+
+[ 2016-03-16T13:19:44+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001108s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003524s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0005s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0062s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024545s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024629s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001515s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001587s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004210s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004302s ]
+
+[ 2016-03-16T13:20:26+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004174s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003124s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0006s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0067s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021346s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021488s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001924s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002008s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002134s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002242s ]
+
+[ 2016-03-16T13:20:42+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003789s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003609s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0024s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0064s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018405s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018481s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001948s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004343s ]
+
+[ 2016-03-16T13:20:47+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000486s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000549s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0023s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0126s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014437s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014536s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000151s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000200s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000496s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000549s ]
+
+[ 2016-03-16T13:21:06+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003891s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003649s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003855s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0005s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0043s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000122s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025030s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001645s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001764s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004025s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004122s ]
+
+[ 2016-03-16T13:21:09+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000475s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0020s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000041s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000108s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009837s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000532s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2016-03-16T13:21:14+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0005s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0028s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010578s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010692s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000201s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000746s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000818s ]
+
+[ 2016-03-16T13:22:16+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003854s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0007s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0069s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033319s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033466s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001892s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004197s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004325s ]
+
+[ 2016-03-16T13:26:33+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003931s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009335s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009550s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0040s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0132s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004542s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004651s ]
+
+[ 2016-03-16T13:42:50+08:00 ] ::1 /index.php/TPH/Ccontroller
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003053s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0038s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0108s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027776s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027943s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002700s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004500s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004663s ]
+
+[ 2016-03-16T13:42:58+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000567s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001017s ]
+
+[ 2016-03-16T13:43:09+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000485s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000892s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+
+[ 2016-03-16T13:43:19+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000659s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000764s ]
+
+[ 2016-03-16T13:45:45+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000930s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+
+[ 2016-03-16T13:46:06+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001020s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+NOTIC: [2] file_put_contents(./Application/Home/Controller/&lt;?php
+namespace home\controller;
+use think\controller;
+class userscontroller extends controller{
+        
+
+private $model;
+public function _initialize(){  $this-&gt;model=new users();  }
+public function add($con){
+        
+return $this-&gt;where($con)-&gt;create();
+}
+
+}Controller.class.php): failed to open stream: File name too long /Applications/MAMP/htdocs/autophp/Application/TPH/Common/function.php 第 141 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004915s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005082s ]
+
+[ 2016-03-16T13:47:00+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004020s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003323s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003539s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003107s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003356s ]
+
+[ 2016-03-16T13:47:34+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000627s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000723s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000676s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2016-03-16T13:50:50+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003611s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003841s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_add_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 59 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 118 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 120 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004920s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005118s ]
+
+[ 2016-03-16T13:51:18+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000962s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_add_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 59 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 118 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 120 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000847s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2016-03-16T13:51:33+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004045s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003208s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003377s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_add_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 59 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 118 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 122 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002880s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003036s ]
+
+[ 2016-03-16T13:51:58+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000366s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000621s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000909s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001014s ]
+
+[ 2016-03-16T13:53:48+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000529s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001012s ]
+
+[ 2016-03-16T13:55:26+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003980s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005753s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005924s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002989s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003183s ]
+
+[ 2016-03-16T13:57:20+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004130s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003126s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003086s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003273s ]
+
+[ 2016-03-16T13:57:52+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000620s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000559s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000658s ]
+
+[ 2016-03-16T14:00:08+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003915s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003346s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003515s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002911s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003067s ]
+
+[ 2016-03-16T14:00:34+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000670s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000781s ]
+
+[ 2016-03-16T14:00:44+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001028s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001167s ]
+
+[ 2016-03-16T14:01:07+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000528s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000628s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000517s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2016-03-16T14:01:49+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004024s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003418s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003632s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003366s ]
+
+[ 2016-03-16T14:02:03+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000495s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000645s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-03-16T14:03:58+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000480s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000746s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000683s ]
+
+[ 2016-03-16T14:04:31+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0013s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0072s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000268s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.034299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.034443s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001568s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001706s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001283s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001408s ]
+
+[ 2016-03-16T14:05:09+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000523s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0004s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000064s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000143s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000712s ]
+
+[ 2016-03-16T14:09:42+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003855s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003310s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [2] Missing argument 2 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: modelName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: moduleName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002808s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003038s ]
+
+[ 2016-03-16T14:09:58+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [2] Missing argument 2 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: modelName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: moduleName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000622s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000721s ]
+
+[ 2016-03-16T14:16:54+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004180s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003468s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003682s ]
+
+[ 2016-03-16T14:17:22+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003961s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003211s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003381s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [2] Missing argument 2 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: modelName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: moduleName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003195s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003379s ]
+
+[ 2016-03-16T14:19:41+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003821s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003087s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003255s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [2] Missing argument 2 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: modelName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: moduleName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_del_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 61 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 137 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 140 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002949s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003126s ]
+
+[ 2016-03-16T14:19:46+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [2] Missing argument 2 for TPH\Controller\CcontrollerController::get_use_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 57 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 91 行.
+NOTIC: [8] Undefined variable: modelName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: moduleName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+NOTIC: [2] Missing argument 1 for TPH\Controller\CcontrollerController::get_del_code(), called in /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php on line 61 and defined /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 137 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 139 行.
+NOTIC: [8] Undefined variable: tableName /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 140 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000671s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000751s ]
+
+[ 2016-03-16T14:21:19+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000161s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004553s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003421s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003629s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003225s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003477s ]
+
+[ 2016-03-16T14:21:33+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003441s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004669s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003366s ]
+
+[ 2016-03-16T14:21:47+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000781s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0068s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0153s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000123s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044241s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003816s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003952s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001725s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001906s ]
+
+[ 2016-03-16T14:21:48+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000543s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000708s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0004s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0066s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013851s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013944s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000153s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000504s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000595s ]
+
+[ 2016-03-16T14:21:56+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000666s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001049s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001229s ]
+
+[ 2016-03-16T14:22:46+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000630s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001104s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001355s ]
+
+[ 2016-03-16T14:24:04+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000960s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001259s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0025s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0068s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000283s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032958s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033143s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001019s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001159s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001652s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001795s ]
+
+[ 2016-03-16T14:24:10+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000911s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001206s ]
+
+[ 2016-03-16T14:24:38+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000942s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001138s ]
+
+[ 2016-03-16T14:24:57+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+
+[ 2016-03-16T14:25:06+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000524s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002609s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002787s ]
+
+[ 2016-03-16T14:25:29+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000588s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000700s ]
+
+[ 2016-03-16T14:28:18+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003559s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003722s ]
+
+[ 2016-03-16T14:28:28+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004009s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003372s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003583s ]
+NOTIC: [2] str_replace() expects at least 3 parameters, 1 given /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+
+[ 2016-03-16T14:30:14+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003393s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+NOTIC: [2] str_replace() expects at least 3 parameters, 2 given /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003215s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003397s ]
+
+[ 2016-03-16T14:30:47+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004068s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004213s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004423s ]
+NOTIC: [2] str_replace() expects at least 3 parameters, 2 given /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 95 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003112s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003298s ]
+
+[ 2016-03-16T14:32:27+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003662s ]
+NOTIC: [2] str_replace() expects at least 3 parameters, 2 given /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CcontrollerController.class.php 第 96 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003373s ]
+
+[ 2016-03-16T14:34:17+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003377s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002801s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003004s ]
+
+[ 2016-03-16T14:34:42+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004113s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003445s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003656s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003035s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003285s ]
+
+[ 2016-03-16T14:35:03+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003335s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002757s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002956s ]
+
+[ 2016-03-16T14:35:17+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004080s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003041s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003329s ]
+
+[ 2016-03-16T14:35:32+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003809s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003390s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003603s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003281s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003533s ]
+
+[ 2016-03-16T14:36:05+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000526s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000674s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2016-03-16T14:36:30+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003996s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003649s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003094s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003352s ]
+
+[ 2016-03-16T14:37:04+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000059s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003648s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003321s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003569s ]
+
+[ 2016-03-16T14:40:22+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004006s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003901s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002630s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002887s ]
+
+[ 2016-03-16T14:40:36+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000079s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004303s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002993s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003256s ]
+
+[ 2016-03-16T14:40:58+08:00 ] ::1 /index.php/TPH/Ccontroller/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000056s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004089s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003721s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002889s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003181s ]
+
+[ 2016-03-16T14:42:56+08:00 ] ::1 /index.php/TPH/Cmodel
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004236s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003694s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0029s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_middlemoney_distribute_ratio' [ RunTime:0.0119s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000272s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061426s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.061554s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002817s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004189s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004347s ]
+
+[ 2016-03-16T14:43:02+08:00 ] ::1 /index.php/TPH/Cmodel/index/model/tp_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000491s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000708s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000876s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0007s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_users' [ RunTime:0.0045s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000106s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.027781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001062s ]
+
+[ 2016-03-16T14:43:19+08:00 ] ::1 /index.php/TPH/Cmodel/index/model/tp_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003958s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003787s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0014s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_users' [ RunTime:0.0065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000065s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000135s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.036239s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.036323s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000570s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003764s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003866s ]
+
+[ 2016-03-16T14:43:42+08:00 ] ::1 /index.php/TPH/Cmodel/index/model/tp_users
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003490s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003822s ]
+SQL: select table_name from information_schema.tables where table_schema='codegenerator' and table_type='base table' [ RunTime:0.0007s ]
+SQL: select * from information_schema.columns where table_schema='codegenerator' and table_name='tp_users' [ RunTime:0.0065s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000131s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000269s ]
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 101 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+NOTIC: [8] Use of undefined constant PRI - assumed 'PRI' /Applications/MAMP/htdocs/autophp/Application/Runtime/Cache/TPH/a96223482504b87a54319040d7de5ff5.php 第 134 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.056457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.056591s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000960s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001089s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002108s ]
+
+[ 2016-03-16T14:43:49+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000698s ]
+NOTIC: [8] Undefined variable: order_fields /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CmodelController.class.php 第 302 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001175s ]
+
+[ 2016-03-16T14:46:01+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003989s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003370s ]
+NOTIC: [8] Undefined variable: order_fields /Applications/MAMP/htdocs/autophp/Application/TPH/Controller/CmodelController.class.php 第 302 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002968s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003111s ]
+
+[ 2016-03-16T14:46:49+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000705s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000644s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2016-03-16T14:47:09+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004004s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003594s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003967s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003078s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003292s ]
+
+[ 2016-03-16T14:47:29+08:00 ] ::1 /index.php/TPH/Cmodel/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000577s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001158s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000703s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000790s ]
+
